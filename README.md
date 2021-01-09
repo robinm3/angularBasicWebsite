@@ -14,8 +14,9 @@
 More in depth instructions about what was done can be found through the Nx tutorials: https://nx.dev/latest/angular/tutorial/01-create-application
 
 # Run the apps
- - Navigate to the main folder and type command npm run start:frontend to start the front end. Navigate to http://localhost:4200/
- - Navigate to the main folder and type command npm run start:backend to start the back end. Navigate to http://localhost:3333/songs for the base path
+ - Start both with `npm run start`
+ - Navigate to the main folder and type command `npm run start:frontend` to start the front end. Navigate to http://localhost:4200/
+ - Navigate to the main folder and type command `npm run start:backend` to start the back end. Navigate to http://localhost:3333/songs for the base path
 
 ## Code scaffolding
 
